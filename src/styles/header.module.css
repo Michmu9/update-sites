@@ -1,0 +1,32 @@
+
+.headS1 {
+    width: 100%;
+    height: 30vh;
+    background-color: rgba(255, 255, 255, 0.541);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    position: absolute;
+    top: 2vh;
+}
+
+.homeB{
+   
+    background:none;
+    font-size: 30px;
+    color: rgb(254, 254, 254);
+    margin-left: 5vw;
+    cursor: pointer;
+    transition: .3s;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+
+.si{
+    font-size: 80px;
+    color: white;
+
+}
+

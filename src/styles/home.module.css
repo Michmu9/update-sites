@@ -1,0 +1,13 @@
+.introH{
+    background-image:url(https://disenourbano.com.ar/wp-content/uploads/2018/04/pier-17brooklyn-nyc-hd-wallpaper-1300x600.jpg);
+    width: 100vw;
+    height: 95vh;
+    align-items: center;
+}
+.caca{
+    width: 50vw;
+    height: 50vh;
+    background-color: crimson;
+    position: absolute;
+    top: 32vh;
+}
